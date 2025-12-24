@@ -1,0 +1,17 @@
+anyio==4.12.0
+beautifulsoup4==4.14.3
+certifi==2025.11.12
+defusedxml==0.7.1
+exceptiongroup==1.3.1
+fonttools==4.61.1
+fpdf2==2.8.5
+greenlet==3.3.0
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+idna==3.11
+pillow==12.0.0
+playwright==1.57.0
+pyee==13.0.0
+soupsieve==2.8.1
+typing_extensions==4.15.0
